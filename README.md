@@ -4,7 +4,7 @@
 # 🚀 About Me  
 💻 First-Year Computer Science & Engineering Student  
 🌱 Passionate about coding, problem-solving & building cool projects  
-📚 Currently learning **Python** while improving my **web development** skills  
+📚 Currently learning **Java** while improving my **web development** skills  
 ✨ Always curious, always learning!  
 
 

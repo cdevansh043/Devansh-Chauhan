@@ -28,6 +28,6 @@
 
 ## 📌 Current Goals  
 - Build small, impactful projects  
-- Explore backend development with Python  
+- Explore backend development with Java  
 - Learn and implement modern web technologies   
 
